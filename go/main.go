@@ -13,5 +13,7 @@ func main() {
 
     log.Print("hello world")
 }
-
+func HelloWorld(){
+    log.Print("hello world")
+}
 // Output: {"time":1516134303,"level":"debug","message":"hello world"}
